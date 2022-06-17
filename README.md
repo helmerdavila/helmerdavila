@@ -1,6 +1,6 @@
 # Hi there 👋 | Hola 👋 | Salut 👋
 
-- 🏢 Currently working at [AlayaCare](https://www.linkedin.com/company/alayacare-inc)
+- 🏢 Currently working at [SSENSE](https://www.linkedin.com/company/ssense_2)
 - ⚒️ Mainly using Python, Bash and Javascript
 - 🌱 I'm learning Go
 - 💻 Add me on [LinkedIn](https://www.linkedin.com/in/helmerdavila)
