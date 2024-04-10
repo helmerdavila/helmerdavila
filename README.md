@@ -5,6 +5,10 @@
 - 🌱 I'm learning Go
 - 💻 Add me on [LinkedIn](https://www.linkedin.com/in/helmerdavila)
 
+## Contributions
+
+[![@helmerdavila Astro contributions](https://astro.badg.es/v2/contributor/helmerdavila.svg)](https://astro.badg.es/contributor/helmerdavila/)
+
 ## Tech stack that I used since I started
 
 <table>
