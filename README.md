@@ -1,7 +1,6 @@
 # Hi there 👋 | Hola 👋 | Salut 👋
 
-- 🏢 Currently working at [SSENSE](https://www.linkedin.com/company/ssense_2)
-- ⚒️ Mainly using Python, Bash and Javascript
+- ⚒️ Mainly using Python, Ruby, PHP, Typescript and Bash
 - 🌱 I'm learning Go
 - 💻 Add me on [LinkedIn](https://www.linkedin.com/in/helmerdavila)
 
